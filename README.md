@@ -2,16 +2,16 @@
 SpringRestfulWebServicesExample
 
 
-Build instructions
+Build instructions - 
 
       This is a maven project and the pom.xml may need versions to be changed for the dependency libraries depending on the repository it 
       is pointing to.
       
- Deployment 
+ Deployment instructions - 
       Maven build generates a .war file which can be put in the server deployment folder
 
      
-  Testing 
+  Testing insrtuctions -
       Any Rest Client can be used to send the requests to the application. Below end points are implemented
       
       Get An Ad
